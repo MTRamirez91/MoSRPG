@@ -1,0 +1,1 @@
+//cleared to test ftp writing. Susan 24 AUG 05 0856
